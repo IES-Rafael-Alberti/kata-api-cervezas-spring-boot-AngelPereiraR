@@ -1,0 +1,12 @@
+{
+  "id": 5918,
+  "name": "Cerveza de Ejemplo",
+  "abv": 5.0,
+  "ibu": 40.0,
+  "srm": 10.0,
+  "upc": 123456,
+  "filepath": "/images/beer.jpg",
+  "descript": "Una cerveza refrescante.",
+  "addUser": 1,
+  "lastMod": "2024-11-01T12:00:00"
+}
